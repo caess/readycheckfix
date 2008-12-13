@@ -1,0 +1,10 @@
+## Interface: 30000
+## Title: ReadyCheckFix
+## Author: Soraia
+## Version: 1.0.0
+## Notes: Fix Ready Check Sound
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+util\functions.lua
+readycheckfix.lua
